@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Json_Practice
 {
-    struct Class1
+    struct SaveObject
     {
         public string string01;
         public int int01;
         public string string02;
 
-        public Class1(string string01, int int01, string string02)
+        public SaveObject(string string01, int int01, string string02)
         {
             this.string01 = string01;
             this.int01 = int01;

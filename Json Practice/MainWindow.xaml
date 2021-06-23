@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Json_Practice"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="400">
     <Grid Background="Wheat">
         <StackPanel>
         <ComboBox Name="mainComboBox" Width="200" Height="25" HorizontalAlignment="Left" 
