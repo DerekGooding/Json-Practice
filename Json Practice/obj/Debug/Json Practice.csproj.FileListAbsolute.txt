@@ -1,0 +1,18 @@
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\bin\Debug\Json Practice.exe.config
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\bin\Debug\Json Practice.exe
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\bin\Debug\Json Practice.pdb
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\obj\Debug\Json Practice.csprojAssemblyReference.cache
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\obj\Debug\MainWindow.g.cs
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\obj\Debug\App.g.cs
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\obj\Debug\Json Practice_MarkupCompile.cache
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\obj\Debug\Json Practice_MarkupCompile.lref
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\obj\Debug\MainWindow.baml
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\obj\Debug\Json Practice.g.resources
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\obj\Debug\Json_Practice.Properties.Resources.resources
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\obj\Debug\Json Practice.csproj.GenerateResource.cache
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\obj\Debug\Json Practice.csproj.CoreCompileInputs.cache
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\obj\Debug\Json Practice.csproj.CopyComplete
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\obj\Debug\Json Practice.exe
+C:\Users\DGooding\source\repos\Json Practice\Json Practice\obj\Debug\Json Practice.pdb

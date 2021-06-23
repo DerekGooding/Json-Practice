@@ -1,0 +1,38 @@
+﻿<Window x:Class="Json_Practice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Json_Practice"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Wheat">
+        <StackPanel>
+        <ComboBox Name="mainComboBox" Width="200" Height="25" HorizontalAlignment="Left" 
+                  VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Margin="10" SelectionChanged="MainComboBox_SelectionChanged"/>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Label Content="Example String 01" Width="120"/>
+                <TextBox x:Name="mainExampleString01" Width="200"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Label Content="Example int 01" Width="120"/>
+                <ComboBox x:Name="mainExampleInt" Width="200">
+                    <ComboBoxItem Content="1"/>
+                    <ComboBoxItem Content="2"/>
+                    <ComboBoxItem Content="3"/>
+                    <ComboBoxItem Content="4"/>
+                    <ComboBoxItem Content="5"/>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Label Content="Example String 02" Width="120"/>
+                <TextBox x:Name="mainExampleString02" Width="200"/>
+            </StackPanel>
+            <Button x:Name="mainSaveButton" Content="Save" Width="200" HorizontalAlignment="Left" Margin="10,0,0,10" Click="MainSaveButton_Click"/>
+            <Button x:Name="mainRefreshButton" Content="Refresh" Width="200" HorizontalAlignment="Left" Margin="10,0,0,10" Click="MainRefreshButton_Click"/>
+            <Button x:Name="mainDeleteButton" Content="Delete" Width="200" HorizontalAlignment="Left" Margin="10,0,0,10" Click="MainDeleteButton_Click"/>
+        </StackPanel>
+        
+
+    </Grid>
+</Window>
